@@ -4,6 +4,7 @@ Uses Mangum adapter to convert ASGI to AWS Lambda/API Gateway format
 """
 import sys
 import os
+import traceback
 
 # Add parent directory to path
 parent_dir = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
@@ -18,9 +19,13 @@ try:
     # Create Mangum adapter for AWS Lambda/API Gateway (Vercel uses this format)
     handler = Mangum(app, lifespan="off")
 except Exception as e:
-    # Fallback error handler
+    # Better error handling for debugging
+    error_msg = f"Error initializing app: {str(e)}\n{traceback.format_exc()}"
+    print(error_msg, file=sys.stderr)
+    
     def handler(event, context):
         return {
             'statusCode': 500,
-            'body': f'Error initializing app: {str(e)}'
+            'headers': {'Content-Type': 'application/json'},
+            'body': f'{{"error": "Initialization failed", "details": "{str(e)}"}}'
         }
