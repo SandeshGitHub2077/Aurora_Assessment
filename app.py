@@ -1,1 +1,290 @@
-﻿∢ഢ儊敵瑳潩⵮湁睳牥湩⁧祓瑳浥映牯䴠浥敢⁲慄慴਍∢ഢ椊灭牯⁴獯਍浩潰瑲爠煥敵瑳൳昊潲⁭祴楰杮椠灭牯⁴灏楴湯污਍牦浯映獡慴楰椠灭牯⁴慆瑳偁ⱉ䠠呔䕐捸灥楴湯਍牦浯瀠摹湡楴⁣浩潰瑲䈠獡䵥摯汥਍牦浯搠瑯湥⁶浩潰瑲氠慯彤潤整癮਍਍牴㩹਍††牦浯琠慲獮潦浲牥⁳浩潰瑲瀠灩汥湩൥ †吠䅒华但䵒剅当噁䥁䅌䱂⁅‽牔敵਍硥散瑰䤠灭牯䕴牲牯ഺ †吠䅒华但䵒剅当噁䥁䅌䱂⁅‽慆獬൥ഊ氊慯彤潤整癮⤨਍਍灡⁰‽慆瑳偁⡉楴汴㵥䴢浥敢⁲䅑匠獹整≭‬敶獲潩㵮ㄢ〮〮⤢਍਍‣潃普杩牵瑡潩൮䴊卅䅓䕇当偁彉剕⁌‽栢瑴獰⼺港癯浥敢㝲㜭〳㈰㘶㘰㤱⸰略潲数眭獥ㅴ爮湵愮灰洯獥慳敧≳਍䙈䅟䥐䭟奅㴠漠⹳敧整癮∨䙈䅟䥐䭟奅⤢਍‣潎整›䙈䅟䥐䭟奅眠汩⁬敢挠敨正摥眠敨⁮敮摥摥‬潮⁴瑡椠灭牯⁴楴敭映牯嘠牥散⁬潣灭瑡扩汩瑩൹ഊ⌊䤠楮楴污穩⁥䅑瀠灩汥湩⁥晩琠慲獮潦浲牥⁳獩愠慶汩扡敬਍慱灟灩汥湩⁥‽潎敮਍晩吠䅒华但䵒剅当噁䥁䅌䱂㩅਍††牴㩹਍††††慱灟灩汥湩⁥‽楰数楬敮ന †††††∠畱獥楴湯愭獮敷楲杮Ⱒ਍††††††潭敤㵬搢敥獰瑥爯扯牥慴戭獡ⵥ煳慵㉤Ⱒ਍††††††潴敫楮敺㵲搢敥獰瑥爯扯牥慴戭獡ⵥ煳慵㉤ഢ †††⤠਍††硥散瑰䔠捸灥楴湯愠⁳㩥਍††††牰湩⡴≦慗湲湩㩧䌠畯摬渠瑯氠慯⁤䅑瀠灩汥湩㩥笠絥⤢਍††††慱灟灩汥湩⁥‽潎敮਍਍‣慃档⁥潦⁲敭獳条獥搠瑡ൡ弊敭獳条獥损捡敨㴠丠湯൥ഊഊ挊慬獳儠敵瑳潩剮煥敵瑳䈨獡䵥摯汥㨩਍††畱獥楴湯›瑳൲ഊഊ挊慬獳䄠獮敷割獥潰獮⡥慂敳潍敤⥬ഺ †愠獮敷㩲猠牴਍਍਍敤⁦敦捴彨污彬敭獳条獥⤨ഺ †∠∢敆捴⁨污⁬敭獳条獥映潲⁭桴⁥偁⹉∢ഢ †朠潬慢⁬浟獥慳敧彳慣档൥ †ഠ †椠⁦浟獥慳敧彳慣档⁥獩渠瑯丠湯㩥਍††††敲畴湲张敭獳条獥损捡敨਍††਍††牴㩹਍††††敲灳湯敳㴠爠煥敵瑳⹳敧⡴䕍卓䝁卅䅟䥐啟䱒‬楴敭畯㵴〳ഩ †††爠獥潰獮⹥慲獩彥潦彲瑳瑡獵⤨਍††††慤慴㴠爠獥潰獮⹥獪湯⤨਍††††浟獥慳敧彳慣档⁥‽慤慴朮瑥∨瑩浥≳‬嵛ഩ †††爠瑥牵⁮浟獥慳敧彳慣档൥ †攠捸灥⁴敲畱獥獴刮煥敵瑳硅散瑰潩⁮獡攠ഺ †††爠楡敳䠠呔䕐捸灥楴湯猨慴畴彳潣敤㔽〰‬敤慴汩昽䘢楡敬⁤潴映瑥档洠獥慳敧㩳笠瑳⡲⥥≽ഩഊഊ搊晥戠極摬损湯整瑸晟牯煟敵瑳潩⡮畱獥楴湯›瑳Ⱳ洠獥慳敧㩳氠獩ⱴ洠硡损湯整瑸江湥瑧㩨椠瑮㴠㐠〰⤰ⴠ‾瑳㩲਍††∢ഢ †䈠極摬愠挠湯整瑸猠牴湩⁧牦浯洠獥慳敧⁳桴瑡愠敲爠汥癥湡⁴潴琠敨焠敵瑳潩⹮਍††獕獥猠浩汰⁥敫睹牯⁤慭捴楨杮琠⁯楦瑬牥爠汥癥湡⁴敭獳条獥മ †∠∢਍††畱獥楴湯江睯牥㴠焠敵瑳潩⹮潬敷⡲ഩ †焠敵瑳潩彮潷摲⁳‽敳⡴畱獥楴湯江睯牥献汰瑩⤨ഩ †ഠ †⌠䔠瑸慲瑣瀠瑯湥楴污攠瑮瑩⁹慮敭⁳挨灡瑩污穩摥眠牯獤ഩ †瀠瑯湥楴污湟浡獥㴠嬠潷摲映牯眠牯⁤湩焠敵瑳潩⹮灳楬⡴ 晩眠牯孤崰椮畳灰牥⤨൝ †ഠ †爠汥癥湡彴敭獳条獥㴠嬠൝ †ഠ †映牯洠杳椠⁮敭獳条獥ഺ †††洠杳瑟硥⁴‽獭⹧敧⡴洢獥慳敧Ⱒ∠⤢氮睯牥⤨਍††††獵牥湟浡⁥‽獭⹧敧⡴產敳彲慮敭Ⱒ∠⤢氮睯牥⤨਍††††਍††††‣桃捥⁫晩洠獥慳敧椠⁳敲敬慶瑮਍††††獩牟汥癥湡⁴‽慆獬൥ †††ഠ †††⌠䌠敨正映牯渠浡⁥慭捴敨൳ †††映牯渠浡⁥湩瀠瑯湥楴污湟浡獥ഺ †††††椠⁦慮敭氮睯牥⤨椠⁮獵牥湟浡㩥਍††††††††獩牟汥癥湡⁴‽牔敵਍††††††††牢慥൫ †††ഠ †††⌠䌠敨正映牯欠祥潷摲洠瑡档獥਍††††晩渠瑯椠彳敲敬慶瑮ഺ †††††洠杳睟牯獤㴠猠瑥洨杳瑟硥⹴灳楬⡴⤩਍††††††晩焠敵瑳潩彮潷摲⹳湩整獲捥楴湯洨杳睟牯獤㨩਍††††††††獩牟汥癥湡⁴‽牔敵਍††††਍††††晩椠彳敲敬慶瑮ഺ †††††爠汥癥湡彴敭獳条獥愮灰湥⡤獭⥧਍††਍††‣晉渠⁯敲敬慶瑮洠獥慳敧⁳潦湵Ɽ甠敳愠汬洠獥慳敧⁳昨污扬捡⥫਍††晩渠瑯爠汥癥湡彴敭獳条獥ഺ †††爠汥癥湡彴敭獳条獥㴠洠獥慳敧൳ †ഠ †⌠䈠極摬挠湯整瑸猠牴湩൧ †挠湯整瑸灟牡獴㴠嬠൝ †挠牵敲瑮江湥瑧⁨‽ര †ഠ †映牯洠杳椠⁮敲敬慶瑮浟獥慳敧孳㔺崰›⌠䰠浩瑩琠⁯潴⁰〵爠汥癥湡⁴敭獳条獥਍††††獭彧瑳⁲‽≦浻杳朮瑥✨獵牥湟浡❥‬唧歮潮湷⤧㩽笠獭⹧敧⡴洧獥慳敧Ⱗ✠⤧⁽䐨瑡㩥笠獭⹧敧⡴琧浩獥慴灭Ⱗ✠⤧㩛〱絝尩≮਍††††晩挠牵敲瑮江湥瑧⁨‫敬⡮獭彧瑳⥲㸠洠硡损湯整瑸江湥瑧㩨਍††††††牢慥൫ †††挠湯整瑸灟牡獴愮灰湥⡤獭彧瑳⥲਍††††畣牲湥彴敬杮桴⬠‽敬⡮獭彧瑳⥲਍††਍††敲畴湲∠湜⸢潪湩挨湯整瑸灟牡獴ഩഊഊ搊晥愠獮敷彲畱獥楴湯睟瑩彨晨焨敵瑳潩㩮猠牴‬潣瑮硥㩴猠牴 㸭猠牴ഺ †∠∢獕⁥畈杧湩䙧捡⁥潴愠獮敷⁲桴⁥畱獥楴湯戠獡摥漠⁮潣瑮硥⹴∢ഢ †⌠䌠敨正䄠䥐欠祥਍††晩渠瑯䠠彆偁彉䕋㩙਍††††敲畴湲愠獮敷彲畱獥楴湯獟浩汰⡥畱獥楴湯‬潣瑮硥⥴਍††਍††‣牔⁹獵湩⁧潬慣⁬牴湡晳牯敭獲瀠灩汥湩⁥楦獲⁴昨獡整Ⱳ渠⁯偁⁉慣汬⥳਍††晩焠彡楰数楬敮椠⁳潮⁴潎敮ഺ †††琠祲ഺ †††††爠獥汵⁴‽慱灟灩汥湩⡥畱獥楴湯焽敵瑳潩Ɱ挠湯整瑸挽湯整瑸ഩ †††††愠獮敷⁲‽敲畳瑬朮瑥∨湡睳牥Ⱒ∠⤢਍††††††捳牯⁥‽敲畳瑬朮瑥∨捳牯≥‬⤰਍††††††਍††††††晩愠獮敷⁲湡⁤捳牯⁥‾⸰㨱਍††††††††敲畴湲愠獮敷൲ †††††攠楬⁦湡睳牥ഺ †††††††爠瑥牵⁮≦⁉潦湵⁤潳敭椠普牯慭楴湯‬畢⁴桴⁥潣普摩湥散椠⁳潬㩷笠湡睳牥≽਍††††硥散瑰䔠捸灥楴湯愠⁳㩥਍††††††牰湩⡴≦楐数楬敮攠牲牯›敻ⱽ映污楬杮戠捡⁫潴䄠䥐⤢਍††਍††‣獕⁥畈杧湩䙧捡⁥湉敦敲据⁥偁൉ †琠祲ഺ †††栠慥敤獲㴠笠਍††††††䄢瑵潨楲慺楴湯㨢映䈢慥敲⁲䡻彆偁彉䕋絙Ⱒ਍††††††䌢湯整瑮吭灹≥›愢灰楬慣楴湯樯潳≮਍††††ൽ †††ഠ †††⌠吠祲洠汵楴汰⁥偁⁉湥灤楯瑮映牯慭獴਍††††灡彩牵獬㴠嬠਍††††††栢瑴獰⼺愯楰椭普牥湥散栮杵楧杮慦散挮⽯潭敤獬搯敥獰瑥爯扯牥慴戭獡ⵥ煳慵㉤Ⱒ਍††††††≦瑨灴㩳⼯灡⵩湩敦敲据⹥畨杧湩晧捡⹥潣瀯灩汥湩⽥畱獥楴湯愭獮敷楲杮搯敥獰瑥爯扯牥慴戭獡ⵥ煳慵㉤ഢ †††崠਍††††਍††††潦⁲灡彩牵⁬湩愠楰畟汲㩳਍††††††牴㩹਍††††††††‣牔⁹楤敲瑣映牯慭⁴楦獲൴ †††††††瀠祡潬摡㴠笠਍††††††††††焢敵瑳潩≮›畱獥楴湯ബ †††††††††∠潣瑮硥≴›潣瑮硥൴ †††††††素਍††††††††਍††††††††敲灳湯敳㴠爠煥敵瑳⹳潰瑳愨楰畟汲‬敨摡牥㵳敨摡牥ⱳ樠潳㵮慰汹慯Ɽ琠浩潥瑵㌽⤰਍††††††††਍††††††††晩爠獥潰獮⹥瑳瑡獵损摯⁥㴽㈠〰ഺ †††††††††爠獥汵⁴‽敲灳湯敳樮潳⡮ഩ †††††††††椠⁦獩湩瑳湡散爨獥汵ⱴ搠捩⥴ഺ †††††††††††椠⁦愢獮敷≲椠⁮敲畳瑬ഺ †††††††††††††愠獮敷⁲‽敲畳瑬≛湡睳牥崢਍††††††††††††††捳牯⁥‽敲畳瑬朮瑥∨捳牯≥‬⸱⤰਍††††††††††††††晩猠潣敲㸠〠ㄮഺ †††††††††††††††爠瑥牵⁮湡睳牥਍††††††††††††汥晩∠牥潲≲渠瑯椠⁮敲畳瑬ഺ †††††††††††††⌠吠祲琠⁯硥牴捡⁴湡睳牥映潲⁭敲灳湯敳਍††††††††††††††晩∠整瑸•湩爠獥汵㩴਍††††††††††††††††敲畴湲爠獥汵孴琢硥≴൝ †††††††ഠ †††††††⌠吠祲眠瑩⁨湩異獴眠慲灰牥਍††††††††慰汹慯⁤‽ൻ †††††††††∠湩異獴㨢笠਍††††††††††††焢敵瑳潩≮›畱獥楴湯ബ †††††††††††∠潣瑮硥≴›潣瑮硥൴ †††††††††素਍††††††††ൽ †††††††ഠ †††††††爠獥潰獮⁥‽敲畱獥獴瀮獯⡴灡彩牵ⱬ栠慥敤獲栽慥敤獲‬獪湯瀽祡潬摡‬楴敭畯㵴〳ഩ †††††††ഠ †††††††椠⁦敲灳湯敳献慴畴彳潣敤㴠‽〲㨰਍††††††††††敲畳瑬㴠爠獥潰獮⹥獪湯⤨਍††††††††††晩椠楳獮慴据⡥敲畳瑬‬楤瑣 湡⁤愢獮敷≲椠⁮敲畳瑬ഺ †††††††††††爠瑥牵⁮敲畳瑬≛湡睳牥崢਍††††††††††汥晩椠楳獮慴据⡥敲畳瑬‬楬瑳 湡⁤敬⡮敲畳瑬 ‾㨰਍††††††††††††晩椠楳獮慴据⡥敲畳瑬せⱝ搠捩⥴愠摮∠湡睳牥•湩爠獥汵孴崰ഺ †††††††††††††爠瑥牵⁮敲畳瑬せ孝愢獮敷≲൝ †††††攠捸灥⁴硅散瑰潩⁮獡攠ഺ †††††††挠湯楴畮൥ †††††††ഠ †攠捸灥⁴硅散瑰潩⁮獡攠ഺ †††瀠楲瑮昨䄢䥐攠牲牯›敻≽ഩ †ഠ †⌠䘠湩污映污扬捡⁫潴猠浩汰⁥敭桴摯਍††敲畴湲愠獮敷彲畱獥楴湯獟浩汰⡥畱獥楴湯‬潣瑮硥⥴਍਍਍敤⁦湡睳牥煟敵瑳潩彮楳灭敬焨敵瑳潩㩮猠牴‬潣瑮硥㩴猠牴 㸭猠牴ഺ †∠∢楓灭敬映污扬捡⁫湡睳牥攠瑸慲瑣潩⁮獵湩⁧敫睹牯⁤慭捴楨杮∮∢਍††畱獥楴湯江睯牥㴠焠敵瑳潩⹮潬敷⡲ഩ †ഠ †⌠䔠瑸慲瑣愠獮敷⁲慢敳⁤湯焠敵瑳潩⁮祴数਍††晩∠桷湥•湩焠敵瑳潩彮潬敷⁲牯∠慤整•湩焠敵瑳潩彮潬敷⁲牯∠楴敭•湩焠敵瑳潩彮潬敷㩲਍††††‣潌歯映牯搠瑡獥椠⁮潣瑮硥൴ †††氠湩獥㴠挠湯整瑸献汰瑩∨湜⤢਍††††潦⁲楬敮椠⁮楬敮㩳਍††††††晩愠祮眨牯⁤湩焠敵瑳潩彮潬敷⁲潦⁲潷摲椠⁮楬敮氮睯牥⤨献汰瑩⤨㨩਍††††††††晩∠慄整∺椠⁮楬敮ഺ †††††††††搠瑡彥慰瑲㴠氠湩⹥灳楬⡴䐢瑡㩥⤢ⵛ崱献牴灩⤨㩛〱൝ †††††††††爠瑥牵⁮≦慂敳⁤湯琠敨洠獥慳敧ⱳ琠楨⁳獩洠湥楴湯摥愠潲湵⁤摻瑡彥慰瑲⹽ഢ †ഠ †椠⁦栢睯洠湡≹椠⁮畱獥楴湯江睯牥ഺ †††⌠吠祲琠⁯硥牴捡⁴畮扭牥൳ †††氠湩獥㴠挠湯整瑸献汰瑩∨湜⤢਍††††潦⁲楬敮椠⁮楬敮㩳਍††††††晩愠祮眨牯⁤湩焠敵瑳潩彮潬敷⁲潦⁲潷摲椠⁮楬敮氮睯牥⤨献汰瑩⤨㨩਍††††††††潷摲⁳‽楬敮献汰瑩⤨਍††††††††潦⁲潷摲椠⁮潷摲㩳਍††††††††††晩眠牯⹤獩楤楧⡴㨩਍††††††††††††敲畴湲映䈢獡摥漠⁮桴⁥敭獳条獥‬桴⁥湡睳牥愠灰慥獲琠⁯敢笠潷摲⹽ഢ †ഠ †⌠䜠湥牥捩映污扬捡൫ †爠瑥牵⁮䤢映畯摮爠汥癥湡⁴湩潦浲瑡潩⁮湩琠敨洠獥慳敧ⱳ戠瑵挠畯摬❮⁴硥牴捡⁴⁡灳捥晩捩愠獮敷⹲倠敬獡⁥档捥⁫桴⁥敭扭牥洠獥慳敧⁳潦⁲敤慴汩⹳ഢഊഊ䀊灡⹰敧⡴⼢⤢਍獡湹⁣敤⁦潲瑯⤨ഺ †∠∢潒瑯攠摮潰湩⹴∢ഢ †爠瑥牵⁮ൻ †††∠敳癲捩≥›䴢浥敢⁲䅑匠獹整≭ബ †††∠敶獲潩≮›ㄢ〮〮Ⱒ਍††††攢摮潰湩獴㨢笠਍††††††⼢獡≫›倢协⁔‭獁⁫⁡畱獥楴湯愠潢瑵洠浥敢⁲慤慴Ⱒ਍††††††⼢敨污桴㨢∠䕇⁔‭效污桴挠敨正ഢ †††素਍††ൽഊഊ䀊灡⹰敧⡴⼢敨污桴⤢਍獡湹⁣敤⁦敨污桴⤨ഺ †∠∢效污桴挠敨正攠摮潰湩⹴∢ഢ †爠瑥牵⁮≻瑳瑡獵㨢∠敨污桴≹ൽഊഊ䀊灡⹰潰瑳∨愯歳Ⱒ爠獥潰獮彥潭敤㵬湁睳牥敒灳湯敳ഩ愊祳据搠晥愠歳煟敵瑳潩⡮敲畱獥㩴儠敵瑳潩剮煥敵瑳㨩਍††∢ഢ †䄠獮敷⁲⁡慮畴慲⵬慬杮慵敧焠敵瑳潩⁮扡畯⁴敭扭牥搠瑡⹡਍††਍††硅浡汰⁥畱獥楴湯㩳਍††‭圢敨⁮獩䰠祡慬瀠慬湮湩⁧敨⁲牴灩琠⁯潌摮湯∿਍††‭䠢睯洠湡⁹慣獲搠敯⁳楖牫浡䐠獥楡栠癡㽥ഢ †ⴠ∠桗瑡愠敲䄠業慲猧映癡牯瑩⁥敲瑳畡慲瑮㽳ഢ †∠∢਍††晩渠瑯爠煥敵瑳焮敵瑳潩⁮牯渠瑯爠煥敵瑳焮敵瑳潩⹮瑳楲⡰㨩਍††††慲獩⁥呈偔硅散瑰潩⡮瑳瑡獵损摯㵥〴ⰰ搠瑥楡㵬儢敵瑳潩⁮慣湮瑯戠⁥浥瑰≹ഩ †ഠ †琠祲ഺ †††⌠䘠瑥档洠獥慳敧൳ †††洠獥慳敧⁳‽敦捴彨污彬敭獳条獥⤨਍††††਍††††晩渠瑯洠獥慳敧㩳਍††††††敲畴湲䄠獮敷割獥潰獮⡥湡睳牥∽潎洠浥敢⁲敭獳条獥愠敲挠牵敲瑮祬愠慶汩扡敬∮ഩ †††ഠ †††⌠䈠極摬挠湯整瑸਍††††潣瑮硥⁴‽畢汩彤潣瑮硥彴潦彲畱獥楴湯爨煥敵瑳焮敵瑳潩Ɱ洠獥慳敧⥳਍††††਍††††晩渠瑯挠湯整瑸ഺ †††††爠瑥牵⁮湁睳牥敒灳湯敳愨獮敷㵲䤢挠畯摬❮⁴楦摮愠祮爠汥癥湡⁴湩潦浲瑡潩⁮潴愠獮敷⁲潹牵焠敵瑳潩⹮⤢਍††††਍††††‣敇⁴湡睳牥甠楳杮䠠杵楧杮慆散䄠䥐਍††††湡睳牥㴠愠獮敷彲畱獥楴湯睟瑩彨晨爨煥敵瑳焮敵瑳潩Ɱ挠湯整瑸ഩ †††ഠ †††爠瑥牵⁮湁睳牥敒灳湯敳愨獮敷㵲湡睳牥ഩ †ഠ †攠捸灥⁴硅散瑰潩⁮獡攠ഺ †††爠楡敳䠠呔䕐捸灥楴湯猨慴畴彳潣敤㔽〰‬敤慴汩昽䔢牲牯瀠潲散獳湩⁧畱獥楴湯›獻牴攨紩⤢਍਍਍晩张湟浡彥 㴽∠彟慭湩彟㨢਍††浩潰瑲甠楶潣湲਍††潰瑲㴠椠瑮漨⹳敧整癮∨佐呒Ⱒ㠠〰⤱ഩ †甠楶潣湲爮湵愨灰‬潨瑳∽⸰⸰⸰∰‬潰瑲瀽牯⥴਍਍
+﻿"""
+Question-Answering System for Member Data
+"""
+import os
+import requests
+from typing import Optional
+from fastapi import FastAPI, HTTPException
+from pydantic import BaseModel
+from dotenv import load_dotenv
+
+try:
+    from transformers import pipeline
+    TRANSFORMERS_AVAILABLE = True
+except ImportError:
+    TRANSFORMERS_AVAILABLE = False
+
+load_dotenv()
+
+app = FastAPI(title="Member QA System", version="1.0.0")
+
+# Configuration
+MESSAGES_API_URL = "https://november7-730026606190.europe-west1.run.app/messages"
+HF_API_KEY = os.getenv("HF_API_KEY")
+# Note: HF_API_KEY will be checked when needed, not at import time for Vercel compatibility
+
+# Initialize QA pipeline if transformers is available
+qa_pipeline = None
+if TRANSFORMERS_AVAILABLE:
+    try:
+        qa_pipeline = pipeline(
+            "question-answering",
+            model="deepset/roberta-base-squad2",
+            tokenizer="deepset/roberta-base-squad2"
+        )
+    except Exception as e:
+        print(f"Warning: Could not load QA pipeline: {e}")
+        qa_pipeline = None
+
+# Cache for messages data
+_messages_cache = None
+
+
+class QuestionRequest(BaseModel):
+    question: str
+
+
+class AnswerResponse(BaseModel):
+    answer: str
+
+
+def fetch_all_messages():
+    """Fetch all messages from the API."""
+    global _messages_cache
+    
+    if _messages_cache is not None:
+        return _messages_cache
+    
+    try:
+        response = requests.get(MESSAGES_API_URL, timeout=30)
+        response.raise_for_status()
+        data = response.json()
+        _messages_cache = data.get("items", [])
+        return _messages_cache
+    except requests.RequestException as e:
+        raise HTTPException(status_code=500, detail=f"Failed to fetch messages: {str(e)}")
+
+
+def build_context_for_question(question: str, messages: list, max_context_length: int = 4000) -> str:
+    """
+    Build a context string from messages that are relevant to the question.
+    Uses simple keyword matching to filter relevant messages.
+    """
+    question_lower = question.lower()
+    question_words = set(question_lower.split())
+    
+    # Extract potential entity names (capitalized words)
+    potential_names = [word for word in question.split() if word[0].isupper()]
+    
+    relevant_messages = []
+    
+    for msg in messages:
+        msg_text = msg.get("message", "").lower()
+        user_name = msg.get("user_name", "").lower()
+        
+        # Check if message is relevant
+        is_relevant = False
+        
+        # Check for name matches
+        for name in potential_names:
+            if name.lower() in user_name:
+                is_relevant = True
+                break
+        
+        # Check for keyword matches
+        if not is_relevant:
+            msg_words = set(msg_text.split())
+            if question_words.intersection(msg_words):
+                is_relevant = True
+        
+        if is_relevant:
+            relevant_messages.append(msg)
+    
+    # If no relevant messages found, use all messages (fallback)
+    if not relevant_messages:
+        relevant_messages = messages
+    
+    # Build context string
+    context_parts = []
+    current_length = 0
+    
+    for msg in relevant_messages[:50]:  # Limit to top 50 relevant messages
+        msg_str = f"{msg.get('user_name', 'Unknown')}: {msg.get('message', '')} (Date: {msg.get('timestamp', '')[:10]})\n"
+        if current_length + len(msg_str) > max_context_length:
+            break
+        context_parts.append(msg_str)
+        current_length += len(msg_str)
+    
+    return "\n".join(context_parts)
+
+
+def answer_question_with_hf(question: str, context: str) -> str:
+    """Use HuggingFace to answer the question based on context."""
+    # Check API key
+    if not HF_API_KEY:
+        return answer_question_simple(question, context)
+    
+    # Try using local transformers pipeline first (faster, no API calls)
+    if qa_pipeline is not None:
+        try:
+            result = qa_pipeline(question=question, context=context)
+            answer = result.get("answer", "")
+            score = result.get("score", 0)
+            
+            if answer and score > 0.1:
+                return answer
+            elif answer:
+                return f"I found some information, but the confidence is low: {answer}"
+        except Exception as e:
+            print(f"Pipeline error: {e}, falling back to API")
+    
+    # Use HuggingFace Inference API
+    try:
+        headers = {
+            "Authorization": f"Bearer {HF_API_KEY}",
+            "Content-Type": "application/json"
+        }
+        
+        # Try multiple API endpoint formats
+        api_urls = [
+            "https://api-inference.huggingface.co/models/deepset/roberta-base-squad2",
+            f"https://api-inference.huggingface.co/pipeline/question-answering/deepset/roberta-base-squad2"
+        ]
+        
+        for api_url in api_urls:
+            try:
+                # Try direct format first
+                payload = {
+                    "question": question,
+                    "context": context
+                }
+                
+                response = requests.post(api_url, headers=headers, json=payload, timeout=30)
+                
+                if response.status_code == 200:
+                    result = response.json()
+                    if isinstance(result, dict):
+                        if "answer" in result:
+                            answer = result["answer"]
+                            score = result.get("score", 1.0)
+                            if score > 0.1:
+                                return answer
+                        elif "error" not in result:
+                            # Try to extract answer from response
+                            if "text" in result:
+                                return result["text"]
+                
+                # Try with inputs wrapper
+                payload = {
+                    "inputs": {
+                        "question": question,
+                        "context": context
+                    }
+                }
+                
+                response = requests.post(api_url, headers=headers, json=payload, timeout=30)
+                
+                if response.status_code == 200:
+                    result = response.json()
+                    if isinstance(result, dict) and "answer" in result:
+                        return result["answer"]
+                    elif isinstance(result, list) and len(result) > 0:
+                        if isinstance(result[0], dict) and "answer" in result[0]:
+                            return result[0]["answer"]
+            except Exception as e:
+                continue
+                
+    except Exception as e:
+        print(f"API error: {e}")
+    
+    # Final fallback to simple method
+    return answer_question_simple(question, context)
+
+
+def answer_question_simple(question: str, context: str) -> str:
+    """Simple fallback answer extraction using keyword matching."""
+    question_lower = question.lower()
+    
+    # Extract answer based on question type
+    if "when" in question_lower or "date" in question_lower or "time" in question_lower:
+        # Look for dates in context
+        lines = context.split("\n")
+        for line in lines:
+            if any(word in question_lower for word in line.lower().split()):
+                if "Date:" in line:
+                    date_part = line.split("Date:")[-1].strip()[:10]
+                    return f"Based on the messages, this is mentioned around {date_part}."
+    
+    if "how many" in question_lower:
+        # Try to extract numbers
+        lines = context.split("\n")
+        for line in lines:
+            if any(word in question_lower for word in line.lower().split()):
+                words = line.split()
+                for word in words:
+                    if word.isdigit():
+                        return f"Based on the messages, the answer appears to be {word}."
+    
+    # Generic fallback
+    return "I found relevant information in the messages, but couldn't extract a specific answer. Please check the member messages for details."
+
+
+@app.get("/")
+async def root():
+    """Root endpoint."""
+    return {
+        "service": "Member QA System",
+        "version": "1.0.0",
+        "endpoints": {
+            "/ask": "POST - Ask a question about member data",
+            "/health": "GET - Health check"
+        }
+    }
+
+
+@app.get("/health")
+async def health():
+    """Health check endpoint."""
+    return {"status": "healthy"}
+
+
+@app.post("/ask", response_model=AnswerResponse)
+async def ask_question(request: QuestionRequest):
+    """
+    Answer a natural-language question about member data.
+    
+    Example questions:
+    - "When is Layla planning her trip to London?"
+    - "How many cars does Vikram Desai have?"
+    - "What are Amira's favorite restaurants?"
+    """
+    if not request.question or not request.question.strip():
+        raise HTTPException(status_code=400, detail="Question cannot be empty")
+    
+    try:
+        # Fetch messages
+        messages = fetch_all_messages()
+        
+        if not messages:
+            return AnswerResponse(answer="No member messages are currently available.")
+        
+        # Build context
+        context = build_context_for_question(request.question, messages)
+        
+        if not context:
+            return AnswerResponse(answer="I couldn't find any relevant information to answer your question.")
+        
+        # Get answer using HuggingFace API
+        answer = answer_question_with_hf(request.question, context)
+        
+        return AnswerResponse(answer=answer)
+    
+    except Exception as e:
+        raise HTTPException(status_code=500, detail=f"Error processing question: {str(e)}")
+
+
+if __name__ == "__main__":
+    import uvicorn
+    port = int(os.getenv("PORT", 8001))
+    uvicorn.run(app, host="0.0.0.0", port=port)
+
