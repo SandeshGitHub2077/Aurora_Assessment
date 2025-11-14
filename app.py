@@ -22,6 +22,7 @@ app = FastAPI(title="Member QA System", version="1.0.0")
 MESSAGES_API_URL = "https://november7-730026606190.europe-west1.run.app/messages"
 HF_API_KEY = os.getenv("HF_API_KEY")
 # Note: HF_API_KEY will be checked when needed, not at import time for Vercel compatibility
+# This allows the app to import even if the key is not set (will fail gracefully later)
 
 # Initialize QA pipeline if transformers is available
 qa_pipeline = None
