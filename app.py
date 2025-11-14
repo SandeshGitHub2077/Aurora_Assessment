@@ -2,6 +2,7 @@
 Question-Answering System for Member Data
 """
 import os
+import sys
 import requests
 from typing import Optional
 from fastapi import FastAPI, HTTPException
@@ -66,7 +67,7 @@ def fetch_all_messages():
         raise HTTPException(status_code=500, detail=f"Failed to fetch messages: {str(e)}")
 
 
-def build_context_for_question(question: str, messages: list, max_context_length: int = 4000) -> str:
+def build_context_for_question(question: str, messages: list, max_context_length: int = 5000) -> str:
     """
     Build a context string from messages that are relevant to the question.
     Uses simple keyword matching to filter relevant messages.
@@ -109,7 +110,7 @@ def build_context_for_question(question: str, messages: list, max_context_length
     context_parts = []
     current_length = 0
     
-    for msg in relevant_messages[:50]:  # Limit to top 50 relevant messages
+    for msg in relevant_messages[:100]:  # Limit to top 100 relevant messages
         msg_str = f"{msg.get('user_name', 'Unknown')}: {msg.get('message', '')} (Date: {msg.get('timestamp', '')[:10]})\n"
         if current_length + len(msg_str) > max_context_length:
             break
