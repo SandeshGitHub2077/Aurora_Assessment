@@ -169,12 +169,19 @@ def answer_question_with_hf(question: str, context: str) -> str:
                         if "answer" in result:
                             answer = result["answer"]
                             score = result.get("score", 1.0)
-                            if score > 0.1:
-                                return answer
+                            if answer and len(answer.strip()) > 0:
+                                if score > 0.05:  # Lower threshold
+                                    return answer
+                                else:
+                                    # Low confidence but return anyway
+                                    return answer
                         elif "error" not in result:
                             # Try to extract answer from response
                             if "text" in result:
                                 return result["text"]
+                elif response.status_code == 503:
+                    # Model is loading, will fall back to simple method
+                    print("HF model is loading, using fallback", file=sys.stderr)
                 
                 # Try with inputs wrapper
                 payload = {
@@ -206,28 +213,106 @@ def answer_question_with_hf(question: str, context: str) -> str:
 def answer_question_simple(question: str, context: str) -> str:
     """Simple fallback answer extraction using keyword matching."""
     question_lower = question.lower()
+    lines = context.split("\n")
+    
+    # Extract member name from question
+    question_words = question.split()
+    member_name = None
+    for word in question_words:
+        if word[0].isupper() and len(word) > 2:
+            # Check if it's a name (not a location)
+            if word.lower() not in ["london", "paris", "tokyo", "dubai", "milan", "monaco", "new", "york", "san", "francisco", "when", "what", "where", "how", "who"]:
+                member_name = word
+                break
+    
+    # Find relevant lines
+    relevant_lines = []
+    for line in lines:
+        if not line.strip():
+            continue
+        line_lower = line.lower()
+        # Check if line mentions the member
+        if member_name and member_name.lower() in line_lower:
+            relevant_lines.append(line)
+        # Check for keyword matches
+        elif any(word in line_lower for word in question_lower.split() if len(word) > 3):
+            relevant_lines.append(line)
+    
+    # If no specific matches, use all lines
+    if not relevant_lines:
+        relevant_lines = lines[:10]
     
     # Extract answer based on question type
     if "when" in question_lower or "date" in question_lower or "time" in question_lower:
-        # Look for dates in context
-        lines = context.split("\n")
-        for line in lines:
-            if any(word in question_lower for word in line.lower().split()):
-                if "Date:" in line:
-                    date_part = line.split("Date:")[-1].strip()[:10]
-                    return f"Based on the messages, this is mentioned around {date_part}."
+        # Look for dates and temporal references
+        for line in relevant_lines:
+            if "Date:" in line:
+                date_part = line.split("Date:")[-1].strip()[:10]
+                # Extract the message content
+                if ":" in line:
+                    message_part = line.split(":", 1)[1].split("(Date:")[0].strip()
+                    if message_part:
+                        return f"Based on the messages, {message_part} (around {date_part})."
+        
+        # Look for temporal words
+        temporal_words = ["today", "tomorrow", "next week", "this friday", "next month", "friday", "saturday", "sunday", "monday", "tuesday", "wednesday", "thursday"]
+        for line in relevant_lines:
+            line_lower = line.lower()
+            for temp_word in temporal_words:
+                if temp_word in line_lower:
+                    if ":" in line:
+                        message_part = line.split(":", 1)[1].strip()
+                        if "(Date:" in message_part:
+                            message_part = message_part.split("(Date:")[0].strip()
+                        if message_part:
+                            return f"Based on the messages: {message_part}"
     
     if "how many" in question_lower:
         # Try to extract numbers
-        lines = context.split("\n")
-        for line in lines:
-            if any(word in question_lower for word in line.lower().split()):
-                words = line.split()
-                for word in words:
-                    if word.isdigit():
-                        return f"Based on the messages, the answer appears to be {word}."
+        for line in relevant_lines:
+            words = line.split()
+            for i, word in enumerate(words):
+                if word.isdigit() and int(word) > 0:
+                    # Get context around the number
+                    context_start = max(0, i-3)
+                    context_end = min(len(words), i+4)
+                    context_words = " ".join(words[context_start:context_end])
+                    return f"Based on the messages: {context_words}"
     
-    # Generic fallback
+    if "what" in question_lower or "which" in question_lower or "where" in question_lower:
+        # Extract the most relevant message
+        for line in relevant_lines:
+            if ":" in line:
+                message_part = line.split(":", 1)[1].strip()
+                if message_part and len(message_part) > 10:
+                    # Remove date part if present
+                    if "(Date:" in message_part:
+                        message_part = message_part.split("(Date:")[0].strip()
+                    if message_part:
+                        return f"Based on the messages: {message_part}"
+    
+    if "who" in question_lower:
+        # Extract names mentioned
+        for line in relevant_lines:
+            if ":" in line:
+                name_part = line.split(":")[0].strip()
+                message_part = line.split(":", 1)[1].strip()
+                if "(Date:" in message_part:
+                    message_part = message_part.split("(Date:")[0].strip()
+                if message_part:
+                    return f"Based on the messages: {name_part} - {message_part}"
+    
+    # Return the most relevant line
+    if relevant_lines:
+        best_line = relevant_lines[0]
+        if ":" in best_line:
+            message_part = best_line.split(":", 1)[1].strip()
+            if "(Date:" in message_part:
+                message_part = message_part.split("(Date:")[0].strip()
+            if message_part:
+                return f"Based on the messages: {message_part}"
+    
+    # Final fallback
     return "I found relevant information in the messages, but couldn't extract a specific answer. Please check the member messages for details."
 
 
